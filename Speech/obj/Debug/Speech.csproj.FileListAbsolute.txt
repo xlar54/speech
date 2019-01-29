@@ -1,0 +1,19 @@
+C:\Users\Scott\Desktop\Speech\Speech\Speech\bin\Debug\Speech.exe.config
+C:\Users\Scott\Desktop\Speech\Speech\Speech\bin\Debug\Speech.exe
+C:\Users\Scott\Desktop\Speech\Speech\Speech\bin\Debug\Speech.pdb
+C:\Users\Scott\Desktop\Speech\Speech\Speech\obj\Debug\Speech.exe
+C:\Users\Scott\Desktop\Speech\Speech\Speech\obj\Debug\Speech.pdb
+C:\Users\Scott\Desktop\Speech\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+J:\Temp_backup\Speech\Speech\Speech\bin\Debug\Speech.exe.config
+J:\Temp_backup\Speech\Speech\Speech\obj\Debug\Speech.exe
+J:\Temp_backup\Speech\Speech\Speech\obj\Debug\Speech.pdb
+J:\Temp_backup\Speech\Speech\Speech\bin\Debug\Speech.exe
+J:\Temp_backup\Speech\Speech\Speech\bin\Debug\Speech.pdb
+J:\Temp_backup\Speech\Speech\Speech\obj\Debug\Speech.csprojResolveAssemblyReference.cache
+I:\Development\CSharp Projects\Speech\Speech\bin\Debug\Speech.exe.config
+I:\Development\CSharp Projects\Speech\Speech\bin\Debug\Speech.exe
+I:\Development\CSharp Projects\Speech\Speech\bin\Debug\Speech.pdb
+I:\Development\CSharp Projects\Speech\Speech\obj\Debug\Speech.csprojAssemblyReference.cache
+I:\Development\CSharp Projects\Speech\Speech\obj\Debug\Speech.csproj.CoreCompileInputs.cache
+I:\Development\CSharp Projects\Speech\Speech\obj\Debug\Speech.exe
+I:\Development\CSharp Projects\Speech\Speech\obj\Debug\Speech.pdb
